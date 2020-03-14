@@ -6,4 +6,4 @@
 
 ## Get closer together the World Sports
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+World Sport Network 10x is a platform of Sports which integrate a Network, Marketplace & Content.
