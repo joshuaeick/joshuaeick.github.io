@@ -1,8 +1,9 @@
 *Empower athletes to achieve their dream*
 
 
-
-![Image of fast.ai logo](images/logo.png)
+<p align="center">
+  <img src="https://Users/User/Desktop/World Sports Network 10x_logo.svg" alt="World Sports Network" width="250px"/>
+</p>
 
 ## Get closer together the World of Sports
 
