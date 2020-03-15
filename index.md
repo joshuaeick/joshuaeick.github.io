@@ -6,7 +6,7 @@
 </p>
 
 
-![](images/logo.png)
+![](images/Document1.htm) 
 
 ## Get closer together the World of Sports
 
