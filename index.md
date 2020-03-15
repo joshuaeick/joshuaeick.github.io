@@ -1,8 +1,8 @@
 *Empower athletes to achieve their dream*
 
-
-
-
+<p align="center">
+  <img src="https://tooksome.github.io/assets/tooksome_logo.svg" alt="Tooksome Logo" width="250px"/>
+</p>
 
 ![](/images/Olympic_rings_without_rims.png) 
 ![GitHub Logo](/images/Olympic_rings_without_rims.png)
