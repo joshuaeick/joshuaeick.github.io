@@ -1,12 +1,11 @@
 *Empower athletes to achieve their dream*
 
 
-<p align="center">
-  <img src="https://Users/User/Desktop/World Sports Network 10x_logo.svg" alt="World Sports Network" width="250px"/>
-</p>
 
 
-![](images/Document1.htm) 
+
+![](/images/Olympic_rings_without_rims.png) 
+![GitHub Logo](/images/Olympic_rings_without_rims.png)
 
 ## Get closer together the World of Sports
 
