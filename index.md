@@ -1,7 +1,7 @@
 *Empower athletes to achieve their dream*
 
 <p align="center">
-  <img src="https://github.com/joshuaeick/joshuaeick.github.io/blob/master/images/Olympic_rings_without_rims.png" alt="Tooksome Logo" width="250px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Olympic_rings_without_rims.svg" alt="Tooksome Logo" width="250px"/>
 </p>
 
 ![](/images/Olympic_rings_without_rims.png) 
